@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+I have a first class BSc(Hons) in Mathematics and I am currently working as a youth justice worker in Youth Offenders Institute. I have been undertaking a Data Analytics bootcamp with AIcore, to start a career as a data analyst.

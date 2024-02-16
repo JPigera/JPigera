@@ -7,5 +7,5 @@
 -  🌱 I’m currently learning how to extract loan payment data and provide key insights
 - :writing_hand:  I’m looking to collaborate on a football analytics project 
 - :student: First Class BSc Mathematics Degree
-- ⚡ I enjoy: Badminton, playing guitar, lifting weights and reading :) 
+- ⚡ I enjoy: Badminton, playing guitar, lifting weights, and reading :) 
 - 📫 How to reach me: jpigera45@gmail.com

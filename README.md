@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JPigera/JPigera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/egor-howell-092a721b3)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About me
-
-I have a first class BSc(Hons) in Mathematics and I am currently working as a youth justice worker in Youth Offenders Institute. I have been undertaking a Data Analytics bootcamp with AIcore, to start a career as a data analyst.
+- :computer: I’m currently working on the AiCore Data Analytics Bootcamp
+- :hammer_and_wrench: I build models with: `Python` `SQL` `Power BI` `AWS`
+-  🌱 I’m currently learning how to extract loan payment data and provide key insights
+- :writing_hand:  I’m looking to collaborate on a football analytics project 
+- :student: First Class BSc Degree in Mathematics
+- ⚡ I enjoy: Badminton, playing guitar, lifting weights and reading :) 
+- 📫 How to reach me: jpigera45@gmail.com

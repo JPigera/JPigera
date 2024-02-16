@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/egor-howell-092a721b3)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-pigera/)
 
 - :computer: I’m currently working on the AiCore Data Analytics Bootcamp
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Power BI` `AWS`

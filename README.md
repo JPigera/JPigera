@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julian-pigera/)
 
-- :computer: I’m currently working on the AiCore Data Analytics Bootcamp
+- :computer: I’m currently working at Janus Henderson Investors as a Data Stewardship Analyst Trainee
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Power BI` `AWS`
 -  🌱 I’m currently learning how to extract loan payment data and provide key insights
 - :writing_hand:  I’m looking to collaborate on a football analytics project 
